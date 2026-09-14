@@ -16,10 +16,6 @@ https://video-conferencing-frontend-tu7z.onrender.com
 
 https://video-conferencing-backend-gys7.onrender.com
 
-### 💻 GitHub Repository
-
-https://github.com/Gaurangi2904/Video-Conferencing-App
-
 ---
 
 ## 📌 About The Project
